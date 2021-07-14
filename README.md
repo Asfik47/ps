@@ -1,2 +1,2 @@
 # ps
-https://asfik47.github.io/pssoregestration.com/
+https://asfik47.github.io/ps/
